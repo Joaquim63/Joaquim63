@@ -1,4 +1,3 @@
 - 👋 @Joaquimg63
-- 👀 Tentando entrar no mundo da programação!
-- 🌱 Pythoon!
+- 🌱 Pythoon!  
 - 💞️ Flutter 💪
